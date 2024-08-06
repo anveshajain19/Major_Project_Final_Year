@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
         
       <link rel="shortcut icon" href="/images/code.png" type="image/x-icon"/>  
       <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
-        <title>code</title>
+        <title>CodeTogether</title>
       </Head>
       <Navbar />
       <Component {...pageProps} />
