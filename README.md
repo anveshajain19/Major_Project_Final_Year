@@ -1,24 +1,24 @@
+#CodeSphere
 
 ## Features
 
-- Collaborative Code Editor
-- Whiteboard Assistance
-- Updates of Upcoming Coding Contests
-- Realtime Chat
-- Online Voice Call
-- Share Invite Link Through Whatsapp
-- Helping Hand for your coding related queries.
-
+- 📝 **Collaborative Code Editor**: Code together in real-time.
+- 🖼️ **Whiteboard Assistance**: Visualize your ideas with an interactive whiteboard.
+- 🏆 **Updates of Upcoming Coding Contests**: Stay updated with the latest coding challenges.
+- 💬 **Realtime Chat**: Communicate instantly with team members.
+- 📞 **Online Voice Call**: Talk to your team without leaving the app.
+- 📲 **Share Invite Link Through WhatsApp**: Invite collaborators easily via WhatsApp.
+- 🤝 **Helping Hand for Coding Queries**: Get assistance for your coding-related questions.
 
 ## Future Scopes
-- Hold coding contests, developer challanges 
-- Hold sponsored challenges
-- Reward them based on challenges
-- Improve the Editor facilities
-- Improve the whiteboard
-- Add more features to whiteboard
 
-  
+- 🏅 **Hold Coding Contests and Developer Challenges**: Participate and compete in coding challenges.
+- 🎉 **Hold Sponsored Challenges**: Engage in sponsored events with rewards.
+- 🎁 **Reward System Based on Challenges**: Earn rewards based on challenge performance.
+- 💻 **Improve the Editor Facilities**: Enhance the coding editor with more features.
+- 🖌️ **Improve the Whiteboard**: Add more functionalities to the whiteboard.
+- 🌟 **Add More Features to Whiteboard**: Continuous improvements to make the whiteboard more versatile.
+
 ## Run Locally
 
 Clone the project
